@@ -4,7 +4,7 @@ This program applies filters to bitmap images(BMP)
 
 The available filters are:
 
-Grayscale
+#Grayscale
 Sepia
 Edge Detection
 Blur
